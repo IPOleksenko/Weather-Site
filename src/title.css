@@ -9,8 +9,6 @@
   text-align: center;
 }
 
-body {
-  background-image: url(images/background.jpg);
-  background-repeat: no-repeat;
-  background-size: 100%;
+small {
+  color: rgb(225, 255, 255);
 }
