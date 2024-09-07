@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Roboto_Condensed";
+  src: local("Roboto_Condensed"), url("font/RobotoCondensed-Light.ttf");
+}
+
+#title {
+  font-size: 70px;
+  font-family: "Roboto_Condensed";
+  text-align: center;
+}
+
+body {
+  background-image: url(images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
